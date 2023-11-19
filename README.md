@@ -1,5 +1,5 @@
 # testing_transformations_improve_image_classification
-The aim of this project is to test several image transformation techniques that take far
+This project was done for my Ai for nature and enviorment course.The aim of this project is to test several image transformation techniques that take far
 less time compared to CNN embeddings from multiple sources to see if a better score can be
 achieved than embedding and a standard SVC. The dataset that will be used is the parakeets
 datasets parakeetsNL_with200.zip and the notroseringed_0145977-230530130749713
@@ -17,7 +17,8 @@ Therefore isolating and only using the red color might allow the model to see th
 more clearly.The second algorithm mainly increases the contrast of the image in hopes to
 display the rose ring more clearly.
 
-more detail and explanation in pdf in repository
+
+more explanation and resluts in pdf in repository
 
 Refrences:
 

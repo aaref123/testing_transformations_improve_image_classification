@@ -8,7 +8,7 @@ evaluated in comparison to the baseline SVC, which uses a gamma value of 0.001. 
 assessment is conducted across five random states for data splitting, and the performance
 metrics considered are the average accuracy, recall, and F1-score.
 
-#methods used:
+methods used:
 from color correction :luminance_weighted_Grey_world, Automatic_color_equalization, Retinex_with_adjust
 from paper : CLAHE,laplacian operator (the code from the paper's github was not use only the idea to test these algortithms was)
 from mt own ideas: The red channel transformation was done with the idea that the main

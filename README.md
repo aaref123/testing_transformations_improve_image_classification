@@ -17,6 +17,8 @@ Therefore isolating and only using the red color might allow the model to see th
 more clearly.The second algorithm mainly increases the contrast of the image in hopes to
 display the rose ring more clearly.
 
+more detail and explanation in pdf in repository
+
 Refrences:
 
 color correction package:

@@ -3,7 +3,7 @@ This project was done for my Ai for nature and enviorment course.The aim of this
 less time compared to CNN embeddings from multiple sources to see if a better score can be
 achieved than embedding and a standard SVC. The dataset that will be used is the parakeets
 datasets parakeetsNL_with200.zip and the notroseringed_0145977-230530130749713
-_200samples.zip (dataset provided from canvas). The results of each transformation will be
+_200samples.zip (datasets are provided here on github. The results of each transformation will be
 evaluated in comparison to the baseline SVC, which uses a gamma value of 0.001. This
 assessment is conducted across five random states for data splitting, and the performance
 metrics considered are the average accuracy, recall, and F1-score.
